@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Citybik" skipped="0" tests="1" time="7.13" timestamp="2020-09-05T14:14:18.772+01:00[Europe/London]"><testcase name="As a user I want to verify that the city Frankfurt is in Germany and return their corresponded latitude and longitude"/></testsuite>

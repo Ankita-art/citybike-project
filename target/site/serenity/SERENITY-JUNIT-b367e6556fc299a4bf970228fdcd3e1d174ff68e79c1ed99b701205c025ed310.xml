@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User verify that city Frankfurt in Germany" skipped="0" tests="1" time="8.08" timestamp="2020-09-05T22:20:07.630+01:00[Europe/London]"><testcase name="As a user I want to verify that the city Frankfurt is in Germany and return their corresponded latitude and longitude"/></testsuite>

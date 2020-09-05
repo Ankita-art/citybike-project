@@ -1,0 +1,7 @@
+This project can run from different ways.
+
+1) We can run this project from CucumberRunner class and also if we can right click inside the
+   CucumberRunner class then we will see run option so we can from there.
+2) From console
+3) From TestLocation class
+4) From Configurations
